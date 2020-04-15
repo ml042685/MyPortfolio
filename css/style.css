@@ -15,9 +15,8 @@ html, body{
     background: url(../images/PC.jpg) no-repeat;
     background-attachment: fixed;
     overflow-y: auto;
-    background-size: 80% 100%;
-    background-position: right;
-    float: left;
+    background-size: 100%;
+    background-position: center;
    }
 
 .nav{
