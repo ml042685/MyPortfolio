@@ -93,5 +93,17 @@ a.active, .nav a:hover{
     opacity: 0.6;
 }
 
+.aboutme{
+    position: absolute;
+    right: 0;
+    top: 0px;
+    color: white;
+    font-family: verdana;
+}
+
+.aboutme p{
+
+}
+
 
 
