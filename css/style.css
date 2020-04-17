@@ -114,7 +114,7 @@ a.active, .nav a:hover{
     top: 10px;
     color: white;
     padding: 0 60px;
-    /* display: none; */
+    display: none;
 }
 .projects .images{
     width: 31%;
@@ -131,6 +131,21 @@ a.active, .nav a:hover{
 .images img:hover{
     transform: scale(1.2);
     -webkit-transform: scale(1.2);
+}
+
+contactme.{
+    position: absolute;
+    right: 0;
+    top: 10px;
+    color: white;
+    padding: 0 60px;
+    display: none;
+}
+.inputtext{
+    width: 55%;
+    height: 65%;
+    border: 3px solid black;
+    color: white;
 }
 
 
