@@ -133,7 +133,7 @@ a.active, .nav a:hover{
     -webkit-transform: scale(1.2);
 }
 
-contactme.{
+.contactme{
     position: absolute;
     right: 0;
     top: 10px;
