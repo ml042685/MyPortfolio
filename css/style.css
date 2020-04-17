@@ -69,7 +69,6 @@ a.active, .nav a:hover{
     width: 930px;
     min-height: 500px;
     height: auto;
-    /* background-color: red; */
     right: 0;
     top: 10%;
 }
@@ -96,13 +95,34 @@ a.active, .nav a:hover{
 .aboutme{
     position: absolute;
     right: 0;
-    top: 0px;
+    top: 10px;
     color: white;
-    font-family: verdana;
+    font-family: century gothic;
+    padding: 0 60px;
+    display: none;
 }
 
 .aboutme p{
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 15px;
+}
 
+.projects{
+    position: absolute;
+    right: 0;
+    top: 10px;
+    color: white;
+    padding: 0 60px;
+    /* display: none; */
+}
+.projects .images{
+    width: 29%;
+    margin: 2%;
+    float: left;
+}
+.images img{
+    width: 100%;
 }
 
 
