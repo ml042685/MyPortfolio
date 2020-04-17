@@ -117,12 +117,20 @@ a.active, .nav a:hover{
     /* display: none; */
 }
 .projects .images{
-    width: 29%;
-    margin: 2%;
+    width: 31%;
+    margin: 1%;
     float: left;
 }
 .images img{
     width: 100%;
+    transition: all ease 0.5s;
+    -webkit-transition: all ease 0.5s;
+    transform: scale(1);
+    -webkit-transform: scale(1);
+}
+.images img:hover{
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
 }
 
 
