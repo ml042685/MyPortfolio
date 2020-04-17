@@ -149,6 +149,8 @@ contactme.{
     background-color: rgba(0,0,0,0.7);
     font-size: 20px;
     padding: 0 10px;
+    float: left;
+    margin-bottom: 15px;
 }
 .inputmessage{
     width: 55%;
@@ -158,6 +160,7 @@ contactme.{
     background-color: rgba(0,0,0,0.7);
     font-size: 20px;
     padding: 0 10px;
+    float: left;
 }
 .submitbutton{
     width: 160px;
@@ -168,7 +171,7 @@ contactme.{
     font-size: 20px;
     border: none; 
     font-weight: bold;
+    float: left;
+    clear: both;
+    margin-top: 25px;
 }
-
-
-
