@@ -22,4 +22,4 @@ Ways for me to connect with future companies
 * GitHub
 
 ## Link
-https://ml042685.github.io/MyPortfolio/#
+
